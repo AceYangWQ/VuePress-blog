@@ -15,48 +15,48 @@ module.exports = {
     serviceWorker: true, // 是否开启 PWA
     themeConfig: {
         nav: [
-            { 
-                text: '主页', 
-                link: '/' 
+            {
+                text: '主页',
+                link: '/'
             },
-            { 
-                text: '目录', 
-                link: '/posts/' 
+            {
+                text: '目录',
+                link: '/posts/'
             },
-            { 
-                text: '最新文章', 
+            {
+                text: '最新文章',
                 link: '/axios/'
-             },
+            },
             {
                 text: '关于我',
                 link: '/about/'
             },
             {
                 text: 'Github',
-                link: ''
+                link: 'https://github.com/AceYangWQ'
             },
             {
                 text: '掘金',
-                link: ''
+                link: 'https://juejin.im/user/5897b97e2f301e00696575f0/posts'
             },
             {
                 text: '知乎',
-                link: '',
+                link: 'https://www.zhihu.com/people/aceyang-73/posts',
             },
             {
                 text: '其他',
                 items: [
                     {
                         text: 'segmentFault',
-                        link: '',
+                        link: 'https://segmentfault.com/u/king_58e4b33ca4581/articles',
                     },
                     {
                         text: '简书',
-                        link: '',
+                        link: 'https://www.jianshu.com/u/25a7aa89728d',
                     },
                     {
                         text: '微博',
-                        link: ''
+                        link: 'https://weibo.com/2967485537/profile?topnav=1&wvr=6'
                     },
                 ]
             }
