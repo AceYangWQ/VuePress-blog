@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /avatar.jpeg
-tagline: JavaScript深入学习
+tagline: js深入学习
 actionText: 开始学习
 actionLink: /start/
 ---
